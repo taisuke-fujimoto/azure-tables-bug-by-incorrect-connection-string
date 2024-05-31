@@ -2,6 +2,8 @@
 
 a bug that causes the process to never terminate if the connection string is incorrect.
 
+**this only occurs when using Azurite.**
+
 ## Usage
 
 1. run table service on default port:
