@@ -15,7 +15,6 @@ kotlin {
 
 dependencies {
     implementation("com.azure:azure-data-tables:12.4.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactive:1.8.1")
 }
 
 application {
